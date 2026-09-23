@@ -28,9 +28,10 @@
 
  📂 仓库目录结构
 ```
+main下
 smart-agriculture-ganong
 ├── README.md                    # 项目说明文档
-├── code/
+在master下
 │   ├── harmony-north/           # 鸿蒙北向应用 ArkTS 源码
 │   ├── flask-backend/           # Flask 后端服务源码
 │   └── hardware-south/          # 南向硬件驱动与采集代码
