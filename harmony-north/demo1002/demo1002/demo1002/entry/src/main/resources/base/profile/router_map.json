@@ -1,0 +1,54 @@
+{
+  "routerMap": [
+    {
+      "name": "StartPage",
+      "pageSourceFile": "src/main/ets/pages/Start.ets",
+      "buildFunction": "StartPageBuilder"
+    },
+    {
+      "name": "LayoutPage",
+      "pageSourceFile": "src/main/ets/pages/Layout.ets",
+      "buildFunction": "LayoutPageBuilder"
+    },
+    {
+      "name": "HomePage",
+      "pageSourceFile": "src/main/ets/pages/Layout.ets",
+      "buildFunction": "LayoutPageBuilder"
+    },
+    {
+      "name": "LoginPage",
+      "pageSourceFile": "src/main/ets/pages/view/login.ets",
+      "buildFunction": "LoginPageBuilder"
+    },
+    {
+      "name": "RegisterPage",
+      "pageSourceFile": "src/main/ets/pages/view/register.ets",
+      "buildFunction": "RegisterPageBuilder"
+    },
+    {
+      "name": "AIPage",
+      "pageSourceFile": "src/main/ets/pages/AI.ets",
+      "buildFunction": "aiPageBuilder"
+    },
+    {
+      "name": "DeviceManagePage",
+      "pageSourceFile": "src/main/ets/pages/device/DeviceManage.ets",
+      "buildFunction": "DeviceManagePageBuilder"
+    },
+    {
+      "name": "DataStatisticsPage",
+      "pageSourceFile": "src/main/ets/pages/data/DataStatistics.ets",
+      "buildFunction": "DataStatisticsPageBuilder"
+    },
+    {
+      "name": "FarmRecordPage",
+      "pageSourceFile": "src/main/ets/pages/record/FarmRecord.ets",
+      "buildFunction": "FarmRecordPageBuilder"
+    },
+    {
+      "name": "SystemSettingsPage",
+      "pageSourceFile": "src/main/ets/pages/settings/SystemSettings.ets",
+      "buildFunction": "SystemSettingsPageBuilder"
+    }
+  ]
+}
